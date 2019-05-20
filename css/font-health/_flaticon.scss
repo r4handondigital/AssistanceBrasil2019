@@ -1,0 +1,135 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+    display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.flaticon-001-hospital:before { content: "\f100"; }
+.flaticon-002-hospital:before { content: "\f101"; }
+.flaticon-003-pills:before { content: "\f102"; }
+.flaticon-004-pills:before { content: "\f103"; }
+.flaticon-005-pills:before { content: "\f104"; }
+.flaticon-006-pills:before { content: "\f105"; }
+.flaticon-007-hospital:before { content: "\f106"; }
+.flaticon-008-first-aid-kit:before { content: "\f107"; }
+.flaticon-009-stethoscope:before { content: "\f108"; }
+.flaticon-010-chemistry:before { content: "\f109"; }
+.flaticon-011-test-tubes:before { content: "\f10a"; }
+.flaticon-012-medical-history:before { content: "\f10b"; }
+.flaticon-013-medical-history:before { content: "\f10c"; }
+.flaticon-014-hospital-bed:before { content: "\f10d"; }
+.flaticon-015-electrocardiogram:before { content: "\f10e"; }
+.flaticon-016-hospital:before { content: "\f10f"; }
+.flaticon-017-ambulance:before { content: "\f110"; }
+.flaticon-018-cardiogram:before { content: "\f111"; }
+.flaticon-019-scale:before { content: "\f112"; }
+.flaticon-020-flask:before { content: "\f113"; }
+.flaticon-021-iv-bag:before { content: "\f114"; }
+.flaticon-022-emergency-call:before { content: "\f115"; }
+.flaticon-023-body-scan:before { content: "\f116"; }
+.flaticon-024-medical:before { content: "\f117"; }
+.flaticon-025-doctor:before { content: "\f118"; }
+.flaticon-026-doctor:before { content: "\f119"; }
+.flaticon-027-dna:before { content: "\f11a"; }
+.flaticon-028-healthcare:before { content: "\f11b"; }
+.flaticon-029-appointment:before { content: "\f11c"; }
+.flaticon-030-wheelchair:before { content: "\f11d"; }
+.flaticon-031-molecular:before { content: "\f11e"; }
+.flaticon-032-prescription:before { content: "\f11f"; }
+.flaticon-033-blood-test:before { content: "\f120"; }
+.flaticon-034-sugar-blood-level:before { content: "\f121"; }
+.flaticon-035-x-ray:before { content: "\f122"; }
+.flaticon-036-mri:before { content: "\f123"; }
+.flaticon-037-blood-pressure-gauge:before { content: "\f124"; }
+.flaticon-038-healthcare:before { content: "\f125"; }
+.flaticon-039-medical-history:before { content: "\f126"; }
+.flaticon-040-thermometer:before { content: "\f127"; }
+.flaticon-041-insurance:before { content: "\f128"; }
+.flaticon-042-dental-care:before { content: "\f129"; }
+.flaticon-043-helicopter:before { content: "\f12a"; }
+.flaticon-044-plaster:before { content: "\f12b"; }
+.flaticon-045-mental-health:before { content: "\f12c"; }
+.flaticon-046-smartwatch:before { content: "\f12d"; }
+.flaticon-047-mortar:before { content: "\f12e"; }
+.flaticon-048-chat:before { content: "\f12f"; }
+.flaticon-049-blood:before { content: "\f130"; }
+.flaticon-050-ophthalmology:before { content: "\f131"; }
+
+$font-Flaticon-001-hospital: "\f100";
+$font-Flaticon-002-hospital: "\f101";
+$font-Flaticon-003-pills: "\f102";
+$font-Flaticon-004-pills: "\f103";
+$font-Flaticon-005-pills: "\f104";
+$font-Flaticon-006-pills: "\f105";
+$font-Flaticon-007-hospital: "\f106";
+$font-Flaticon-008-first-aid-kit: "\f107";
+$font-Flaticon-009-stethoscope: "\f108";
+$font-Flaticon-010-chemistry: "\f109";
+$font-Flaticon-011-test-tubes: "\f10a";
+$font-Flaticon-012-medical-history: "\f10b";
+$font-Flaticon-013-medical-history: "\f10c";
+$font-Flaticon-014-hospital-bed: "\f10d";
+$font-Flaticon-015-electrocardiogram: "\f10e";
+$font-Flaticon-016-hospital: "\f10f";
+$font-Flaticon-017-ambulance: "\f110";
+$font-Flaticon-018-cardiogram: "\f111";
+$font-Flaticon-019-scale: "\f112";
+$font-Flaticon-020-flask: "\f113";
+$font-Flaticon-021-iv-bag: "\f114";
+$font-Flaticon-022-emergency-call: "\f115";
+$font-Flaticon-023-body-scan: "\f116";
+$font-Flaticon-024-medical: "\f117";
+$font-Flaticon-025-doctor: "\f118";
+$font-Flaticon-026-doctor: "\f119";
+$font-Flaticon-027-dna: "\f11a";
+$font-Flaticon-028-healthcare: "\f11b";
+$font-Flaticon-029-appointment: "\f11c";
+$font-Flaticon-030-wheelchair: "\f11d";
+$font-Flaticon-031-molecular: "\f11e";
+$font-Flaticon-032-prescription: "\f11f";
+$font-Flaticon-033-blood-test: "\f120";
+$font-Flaticon-034-sugar-blood-level: "\f121";
+$font-Flaticon-035-x-ray: "\f122";
+$font-Flaticon-036-mri: "\f123";
+$font-Flaticon-037-blood-pressure-gauge: "\f124";
+$font-Flaticon-038-healthcare: "\f125";
+$font-Flaticon-039-medical-history: "\f126";
+$font-Flaticon-040-thermometer: "\f127";
+$font-Flaticon-041-insurance: "\f128";
+$font-Flaticon-042-dental-care: "\f129";
+$font-Flaticon-043-helicopter: "\f12a";
+$font-Flaticon-044-plaster: "\f12b";
+$font-Flaticon-045-mental-health: "\f12c";
+$font-Flaticon-046-smartwatch: "\f12d";
+$font-Flaticon-047-mortar: "\f12e";
+$font-Flaticon-048-chat: "\f12f";
+$font-Flaticon-049-blood: "\f130";
+$font-Flaticon-050-ophthalmology: "\f131";
